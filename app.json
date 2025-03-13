@@ -34,6 +34,12 @@
           "backgroundColor": "#ffffff"
         }
       ],
+      [
+        "expo-router",
+        {
+          "root": "./src/routes"
+        }
+      ],
       "expo-build-properties",
       "expo-font"
     ],
